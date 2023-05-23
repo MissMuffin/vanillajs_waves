@@ -1,4 +1,4 @@
-import { createWaves } from "./bubbles.js";
+import { createWaves } from "./waves.js";
 
 $(function () {
     createWaves(3);
